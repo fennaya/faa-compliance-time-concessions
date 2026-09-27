@@ -70,7 +70,7 @@ def call_groq(block_text: str, api_key: str, max_retries: int = 6):
         # Groq's front end (Cloudflare) returns a bare 403 (error code 1010) to urllib's default
         # "Python-urllib/x.y" User-Agent; confirmed by the same request succeeding via curl with no other
         # change. A conventional UA string is enough to pass; this is not a Groq API-level restriction.
-        "User-Agent": "faa-ad-concession-study/1.0 (research; contact: emssaadaya@gmail.com)"})
+        "User-Agent": "faa-ad-concession-study/1.0 (research; contact: fennaya@users.noreply.github.com)"})
     for attempt in range(max_retries):
         try:
             with urllib.request.urlopen(req, timeout=60) as r:

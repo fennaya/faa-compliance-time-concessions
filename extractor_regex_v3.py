@@ -29,7 +29,7 @@ from collections import Counter, defaultdict
 ROOT = pathlib.Path(__file__).resolve().parent
 PROJECT = ROOT.parent                                  # .../projet plane
 CACHE = PROJECT / "phase0b" / "cache" / "govinfo"
-UA = "faa-ad-concession-study/1.0 (research; contact: emssaadaya@gmail.com)"
+UA = "faa-ad-concession-study/1.0 (research; contact: fennaya@users.noreply.github.com)"
 
 # --------------------------------------------------------------------------------------------------------- fetch
 
