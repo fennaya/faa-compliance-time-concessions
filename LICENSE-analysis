@@ -1,0 +1,24 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Aya Emssaad
+
+The analysis, findings, and data in this repository are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0). To view a
+copy of this license, visit https://creativecommons.org/licenses/by/4.0/ or
+send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+This applies to:
+  - findings.md (the full write-up, all rounds)
+  - val40_results.md (the hand-labeled validation set)
+  - results_llm_full.csv, results_llm_val40.csv (extracted data)
+  - llm_val40_report.json (validation report)
+  - figures/decade_grant_rate.png (the chart)
+
+You are free to share and adapt this material for any purpose, even
+commercially, as long as you give appropriate credit, provide a link to the
+license, and indicate if changes were made. See CITATION.cff for how to cite
+this work.
+
+The code (extractor.py, extractor_regex_v3.py, extractor_llm.py,
+step3_analysis.py, figures/make_chart.py) is licensed separately under MIT;
+see LICENSE.

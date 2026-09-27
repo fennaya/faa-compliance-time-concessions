@@ -1,0 +1,16 @@
+# Raw API response logs (large, regenerable via re-run, not needed for reproducing the published numbers)
+llm_logs/
+llm_logs_full/
+
+# Local cache / scratch
+__pycache__/
+*.pyc
+*.log
+.cache/
+
+# Secrets, never commit
+.env
+.env.*
+*.key
+*secret*
+*apikey*

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this data, code, or analysis, please cite it as below."
+title: "FAA Compliance-Time Concessions: How Often Does the FAA Grant Operators More Time, and Has That Changed Over 30 Years?"
+type: dataset
+authors:
+  - family-names: "Emssaad"
+    given-names: "Aya"
+    alias: "fennaya"
+repository-code: "https://github.com/fennaya/faa-compliance-time-concessions"
+version: 1.0.0
+date-released: "2026-09-27"
+license: "MIT"
+license-data: "CC-BY-4.0"
+doi: "10.5281/zenodo.PLACEHOLDER"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.PLACEHOLDER"
+    description: "TODO: replace with the real Zenodo DOI once the v1.0.0 release is archived. Do not cite this placeholder."

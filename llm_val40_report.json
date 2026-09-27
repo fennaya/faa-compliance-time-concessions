@@ -1,0 +1,54 @@
+{
+ "model": "openai/gpt-oss-120b",
+ "agree": 31,
+ "scored_of": 31,
+ "disagree": 0,
+ "denominator_note": "31 is the achievable ceiling on this 40-doc sample, not 40; report as X/31",
+ "n_hand_unclear": 1,
+ "n_no_outcome": 9,
+ "n_verbatim_failures": 0,
+ "n_parse_errors": 0,
+ "gate_threshold": 31,
+ "gate_agreement": true,
+ "gate_verbatim_zero_failures": true,
+ "proceed_to_full_run": true,
+ "disagreements": [],
+ "no_outcome_docs": [
+  {
+   "doc": "05-19143",
+   "hand": "DENIED"
+  },
+  {
+   "doc": "05-6757",
+   "hand": "DENIED"
+  },
+  {
+   "doc": "2010-17046",
+   "hand": "GRANTED"
+  },
+  {
+   "doc": "2012-20265",
+   "hand": "GRANTED"
+  },
+  {
+   "doc": "2021-15947",
+   "hand": "UNCLEAR"
+  },
+  {
+   "doc": "2023-07773",
+   "hand": "GRANTED"
+  },
+  {
+   "doc": "2023-13154",
+   "hand": "DENIED"
+  },
+  {
+   "doc": "97-31021",
+   "hand": "DENIED"
+  },
+  {
+   "doc": "98-9123",
+   "hand": "DENIED"
+  }
+ ]
+}
