@@ -1,7 +1,7 @@
 # FAA Compliance-Time Concessions
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23000344.svg)](https://doi.org/10.5281/zenodo.23000344)
 ## The question
-
+Across 568 FAA airworthiness directives, the FAA grants operators' requests for more time far less often now (about 20% since 2010, versus about 43% in the 1990s), and requests citing parts shortages are granted significantly less than others (Fisher p = 0.007, Bonferroni-corrected).
 When an aircraft operator formally objects to the deadline an FAA Airworthiness Directive sets for fixing a safety problem, and asks for more time, how often does the FAA actually grant it? And has that changed over the three decades these directives span? This is a plain empirical question nobody appears to have measured: it requires reading the "Discussion of Comments" section of hundreds of Federal Register final rules, finding the paragraph where a commenter contested the compliance time, and recording what was proposed, what was requested, and what the FAA actually decided.
 
 ## The real contribution: how to know whether to trust an automated extractor
